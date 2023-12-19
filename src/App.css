@@ -1,0 +1,22 @@
+
+.navigation {
+  background: linear-gradient(4deg, #808080 15%, #ffffff 78%);
+}
+
+.navLinks {
+  font-size: x-large;
+}
+.navLinks a {
+  margin-right: 30px; 
+}
+.navIcon img{
+  width: 50px;
+}
+.navLinks a {
+  color: #000000; 
+  text-decoration: none;
+}
+
+.active {
+  font-weight: bold; 
+}
